@@ -13,8 +13,8 @@
     "content-disposition": "^0.5.2",
     "express": "^4.16.2"
   },
+  "preferGlobal": true,
   "bin": {
     "cute-files": "cute-files.js"
-  },
-  "preferGlobal": true
+  }
 }
